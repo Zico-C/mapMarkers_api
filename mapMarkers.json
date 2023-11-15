@@ -1,0 +1,46 @@
+{
+  "markers": [
+    {
+      "id": 1,
+      "position": [24.80063398900308, 120.97787231991643],
+      "name": "新竹公園",
+      "type": "景點",
+      "officialWeb": "https://hsinchupark.hccg.gov.tw/#/home",
+      "googleMap": "https://maps.app.goo.gl/SxA1LHhCgrmuSoE88",
+      "icon": "https://lh5.googleusercontent.com/p/AF1QipOokKFZNeZInCUZSPcQJh1gywjRP0cfASGlFqZa=w408-h272-k-no"
+    },
+    {
+      "id": 2,
+      "position": [24.80016211057047, 120.97992782840024],
+      "name": "新竹動物園",
+      "type": "景點",
+      "googleMap": "https://maps.app.goo.gl/8Nc9JnUiJtf69ovC7",
+      "icon": "https://www.dabencar.com/archive/image/article5/35b877a69be2849a.jpg"
+    },
+    {
+      "id": 3,
+      "position": [24.801613979783625, 120.97158683304652],
+      "name": "新竹火車站",
+      "type": "大眾交通工具",
+      "officialWeb": "https://www.railway.gov.tw/tra-tip-web/tip",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%E6%96%B0%E7%AB%B9%E7%81%AB%E8%BB%8A%E7%AB%99%EF%BC%882020%E5%B9%B4%E6%8B%8D%E6%94%9D%EF%BC%89.jpg/1200px-%E6%96%B0%E7%AB%B9%E7%81%AB%E8%BB%8A%E7%AB%99%EF%BC%882020%E5%B9%B4%E6%8B%8D%E6%94%9D%EF%BC%89.jpg"
+    },
+    {
+      "id": 4,
+      "position": [24.804515249498532, 120.96593682133481],
+      "name": "新竹城隍廟",
+      "type": "美食",
+      "googleMap": "https://maps.app.goo.gl/zirQEaWhozH58C9Q9",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/5/57/COVID-19%E6%9C%9F%E9%96%93%E7%9A%84%E6%96%B0%E7%AB%B9%E9%83%BD%E5%9F%8E%E9%9A%8D%E5%BB%9F.jpg"
+    },
+    {
+      "id": 5,
+      "position": [24.809903505194157, 120.97507425837118],
+      "name": "Big City遠東巨城購物中心",
+      "type": "美食",
+      "officialWeb": "https://www.febigcity.com/bigcity",
+      "googleMap": "https://maps.app.goo.gl/FBQxYSpNicraEdVt5",
+      "icon": "https://img.ltn.com.tw/Upload/news/600/2022/11/12/4121506_1_1.jpg"
+    }
+  ]
+}
