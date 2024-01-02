@@ -104,6 +104,78 @@
       "officialWeb": "",
       "googleMap": "https://maps.app.goo.gl/W6Tvmfxr4UwVqifB9",
       "icon": "https://img.ltn.com.tw/Upload/playing/page/2019/05/22/190522-12625-1-HRCYz.jpg"
+    },    
+    {
+      "id": 10,
+      "position": [
+        25.033686328174912,
+        121.56484664306863
+      ],
+      "name": "101大樓",
+      "type": "景點",
+      "officialWeb": "",
+      "googleMap": "https://maps.app.goo.gl/W6Tvmfxr4UwVqifB9",
+      "icon": "https://img.ltn.com.tw/Upload/playing/page/2019/05/22/190522-12625-1-HRCYz.jpg"
+    },    
+    {
+      "id": 11,
+      "position": [
+        25.024561321195407,
+        121.52934453922127
+      ],
+      "name": "師大夜市",
+      "type": "景點",
+      "officialWeb": "",
+      "googleMap": "https://maps.app.goo.gl/W6Tvmfxr4UwVqifB9",
+      "icon": "https://img.ltn.com.tw/Upload/playing/page/2019/05/22/190522-12625-1-HRCYz.jpg"
+    },    
+    {
+      "id": 12,
+      "position": [
+        25.09297513510574,
+        121.52620185952159
+      ],
+      "name": "士林捷運站",
+      "type": "景點",
+      "officialWeb": "",
+      "googleMap": "https://maps.app.goo.gl/W6Tvmfxr4UwVqifB9",
+      "icon": "https://img.ltn.com.tw/Upload/playing/page/2019/05/22/190522-12625-1-HRCYz.jpg"
+    },    
+    {
+      "id": 13,
+      "position": [
+        25.04216047345799,
+        121.50831317942657
+      ],
+      "name": "西門捷運站",
+      "type": "景點",
+      "officialWeb": "",
+      "googleMap": "https://maps.app.goo.gl/W6Tvmfxr4UwVqifB9",
+      "icon": "https://img.ltn.com.tw/Upload/playing/page/2019/05/22/190522-12625-1-HRCYz.jpg"
+    },    
+    {
+      "id": 14,
+      "position": [
+        25.031567342823067,
+        121.56193260641294
+      ],
+      "name": "四四南村",
+      "type": "景點",
+      "officialWeb": "",
+      "googleMap": "https://maps.app.goo.gl/W6Tvmfxr4UwVqifB9",
+      "icon": "https://img.ltn.com.tw/Upload/playing/page/2019/05/22/190522-12625-1-HRCYz.jpg"
+    },    
+    {
+      "id": 15,
+      "position": [
+        25.023079783063995,
+        121.50530271250959
+      ],
+      "name": "青年公園",
+      "type": "景點",
+      "officialWeb": "",
+      "googleMap": "https://maps.app.goo.gl/W6Tvmfxr4UwVqifB9",
+      "icon": "https://img.ltn.com.tw/Upload/playing/page/2019/05/22/190522-12625-1-HRCYz.jpg"
     }
   ]
 }
